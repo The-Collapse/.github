@@ -1,4 +1,4 @@
-![no image]
+![no image]()
 
 The Collapse is a game in which you have to survive in an apocalyptic world full of zombies and people.
 
