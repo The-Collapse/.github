@@ -1,2 +1,7 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Collapse&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=The-Collapse&theme=transparent)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Collase&theme=transparent) 
+![no image]
+
+The Collapse is a game in which you have to survive in an apocalyptic world full of zombies and people.
+
+There is an active war for resources and everyone is ready to tear each other apart just to survive.
+
+The game is in the EARLY DEVELOPMENT STAGE and everything can change at ANY moment.
